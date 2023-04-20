@@ -1,1 +1,3 @@
-0x0C. Python - Almost a circle
+# 👋 Hi, I’m @Chardso open source hardware and Electronic engineer and learning software engineering at ALX ,Am in Corhot 11
+
+# Badges.
