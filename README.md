@@ -3,7 +3,7 @@
  ## open source hardware and Electronic engineer and learning software engineering at ALX ,Am in Corhot 11
 
 
-![](/wafela (1).png)
+wafela (1).png
 
 
 
